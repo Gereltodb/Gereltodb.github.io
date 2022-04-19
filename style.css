@@ -113,11 +113,11 @@ p {
 }
 
 .price p::before {
-  content: url(icon-ethereum.svg);
+  content: url(/icon-ethereum.svg);
   padding-right: 8px;
 }
 
 .days p::before {
-  content: url(icon-clock.svg);
+  content: url(/icon-clock.svg);
   padding-right: 7px;
 }
